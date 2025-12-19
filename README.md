@@ -55,6 +55,20 @@ Responsive UI: Smooth and modern UI built with Jetpack Compose.
 
 ![Screenshot](https://paksource.info/wp-content/uploads/2025/12/screenshots-1.png)
 
+![Screenshot](https://paksource.info/wp-content/uploads/2025/12/screenshots-2.png)
+
+![Screenshot](https://paksource.info/wp-content/uploads/2025/12/screenshots-4.png)
+
+![Screenshot](https://paksource.info/wp-content/uploads/2025/12/screenshots-3.png)
+
+![Screenshot](https://paksource.info/wp-content/uploads/2025/12/screenshots-5.png)
+
+![Screenshot](https://paksource.info/wp-content/uploads/2025/12/screenshots-6.png)
+
+![Screenshot](https://paksource.info/wp-content/uploads/2025/12/screenshots-7.png)
+
+![Screenshot](https://paksource.info/wp-content/uploads/2025/12/screenshots-8.png)
+
 ---
 
 ## Future Improvements
