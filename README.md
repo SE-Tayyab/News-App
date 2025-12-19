@@ -53,24 +53,7 @@ Responsive UI: Smooth and modern UI built with Jetpack Compose.
 
 ## Screenshots
 
-![Home Screen](https://raw.githubusercontent.com/SE-Tayyab/News-App/main/assets/images/screenshots%20(1).png)
-
----
-
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone <your-repo-link>
-```
-
-2. Open the project in **Android Studio**.
-3. Add your **NewsAPI key** in `local.properties`:
-
-```
-NEWS_API_KEY=your_api_key_here
-```
+![Screenshot](https://paksource.info/wp-content/uploads/2025/12/screenshots-1.png)
 
 ---
 
