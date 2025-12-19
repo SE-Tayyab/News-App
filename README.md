@@ -53,9 +53,7 @@ Responsive UI: Smooth and modern UI built with Jetpack Compose.
 
 ## Screenshots
 
-![Home Screen](https://via.placeholder.com/400x700.png?text=Home+Screen)
-![Article Detail](https://via.placeholder.com/400x700.png?text=Article+Detail)
-![Favorites](https://via.placeholder.com/400x700.png?text=Favorites)
+![Home Screen](assets/images/screenshots\ (1).png) ![Article Detail](assets/images/screenshots\ (2).png) ![Favorites Screen](assets/images/screenshots\ (3).png) ![Search Screen](assets/images/screenshots\ (4).png) ![Error Handling](assets/images/screenshots\ (5).png) ![Offline Caching](assets/images/screenshots\ (6).png) ![Categories](assets/images/screenshots\ (7).png) ![Dark Mode](assets/images/screenshots\ (8).png)
 
 ---
 
